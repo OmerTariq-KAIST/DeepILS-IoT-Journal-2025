@@ -42,14 +42,14 @@ Citation
 ----------
 ```BibTex
 @ARTICLE{10873819,
-  author={Tariq, Omer and Dastagir, Bilal and Bilal, Muhammad and Han, Dongsoo},
+  author={Tariq, Omer and Dastagir, Muhammad Bilal Akram and Bilal, Muhammad and Han, Dongsoo},
   journal={IEEE Internet of Things Journal}, 
-  title={DeepILS: Towards Accurate Domain Invariant AIoT-enabled Inertial Localization System}, 
+  title={DeepILS: Toward Accurate Domain-Invariant AIoT-Enabled Inertial Localization System}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Location awareness;Internet of Things;Computational modeling;Real-time systems;Data models;Accuracy;Smart phones;Pedestrians;Odometry;Performance evaluation;Pedestrian Localization;Indoor Navigation;Deep Neural Networks (DNN);Convolution;State Estimation;Quantization;ONNX;ZUPT;Deep Inertial Odometry;Artificial Intelligence of Things (AIoT)},
+  volume={12},
+  number={11},
+  pages={17153-17168},
+  keywords={Location awareness;Internet of Things;Computational modeling;Real-time systems;Data models;Accuracy;Smart phones;Pedestrians;Odometry;Performance evaluation;Artificial Intelligence of Things (AIoT);convolution;deep inertial odometry (DIO);deep neural networks (DNNs);indoor navigation;ONNX;pedestrian localization;quantization;state estimation;zero-velocity update (ZUPT)},
   doi={10.1109/JIOT.2025.3538938}}
 ```
 
